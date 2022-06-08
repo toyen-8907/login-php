@@ -1,0 +1,16 @@
+
+
+.name{
+    align-items:center;
+    display:flex; 
+    flex-direction:column; 
+    width:600px; 
+    justify-content:center;
+}
+.box{
+    align-items:center;
+    display:flex; 
+    flex-direction:column; 
+    width:1000px; 
+    justify-content:center;
+}
